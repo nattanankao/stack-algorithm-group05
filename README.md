@@ -1,1 +1,0 @@
-# stack-algorithm-group05
